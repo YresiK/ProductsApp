@@ -8,13 +8,25 @@ img {
   display: block;
 
   border-radius: 50%;
+
+  border: 3px solid #b00020;
 }
 
 ion-card-title,
 ion-card-subtitle {
   text-align: center;
+
+  color: #111;
 }
 
 ion-card-content {
   text-align: center;
+
+  color: #333;
+}
+
+ion-card {
+  --background: #f5f5f5;
+
+  border-radius: 18px;
 }
