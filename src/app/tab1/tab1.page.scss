@@ -1,0 +1,20 @@
+img {
+  width: 120px;
+  height: 120px;
+
+  object-fit: cover;
+
+  margin: 20px auto;
+  display: block;
+
+  border-radius: 50%;
+}
+
+ion-card-title,
+ion-card-subtitle {
+  text-align: center;
+}
+
+ion-card-content {
+  text-align: center;
+}

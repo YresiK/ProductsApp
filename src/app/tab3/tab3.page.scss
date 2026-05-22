@@ -1,0 +1,21 @@
+img {
+  height: 180px;
+
+  object-fit: contain;
+
+  padding: 15px;
+}
+
+ion-card {
+  border-radius: 16px;
+
+  margin-bottom: 20px;
+
+  --background: #f4f4f4;
+}
+
+ion-button {
+  margin-bottom: 20px;
+
+  --border-radius: 10px;
+}

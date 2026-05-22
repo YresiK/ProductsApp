@@ -1,0 +1,43 @@
+ion-card {
+  border-radius: 16px;
+
+  padding-bottom: 10px;
+
+  --background: #f4f4f4;
+}
+
+img {
+  height: 180px;
+
+  object-fit: contain;
+
+  padding: 15px;
+}
+
+ion-card-title {
+  font-size: 1rem;
+}
+
+ion-card-subtitle {
+  margin-top: 5px;
+}
+
+ion-card-content p {
+  font-size: 0.9rem;
+
+  color: gray;
+}
+
+.buttons {
+  display: flex;
+
+  gap: 10px;
+
+  margin-top: 15px;
+}
+
+ion-button {
+  flex: 1;
+
+  --border-radius: 10px;
+}
